@@ -10,5 +10,5 @@ Rails.application.routes.draw do
       end
     end
   end
-root 'api/v1/products#index'
+# root 'api/v1/products#index'
 end
